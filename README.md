@@ -207,3 +207,25 @@ Wireframing is an essential step that bridges the gap between idea and implement
 
 
 
+
+ **The role of wireframing in ensuring a user-friendly design.**
+Wireframing plays a key role in creating user-friendly digital products by allowing teams to:
+
+Focus on user experience (UX) early, without distractions from color or style.
+
+Test and refine layout and navigation to ensure clarity and ease of use.
+
+Identify usability issues early, such as confusing flows or missing buttons.
+
+Gather feedback from users through simple prototypes before development.
+
+Support accessibility by emphasizing clear structure and content hierarchy.
+
+Align designers, developers, and stakeholders around the user's needs.
+
+By addressing usability early in the process, wireframing helps teams build products that are intuitive, efficient, and satisfying to use.
+
+
+
+
+
