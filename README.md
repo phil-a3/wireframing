@@ -32,7 +32,7 @@ Wireframing allows teams to test and improve navigation and interaction flows ea
 In iterative design processes, wireframes provide a flexible foundation for quick revisions, user feedback, and incremental improvements.
 
 
-**Types of wireframes**
+**Types of wireframes** 
 *Low-Fidelity vs. High-Fidelity Wireframes*
 Wireframes come in different levels of detail or "fidelity", depending on the stage of the design process and the goals of the team.
 
